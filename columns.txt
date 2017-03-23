@@ -1,1 +1,0 @@
-job_number,submit_time,wait_time,run_time,cpu_cores,cpu_time_used,mem_used,requested_cores,requested_time,status,user_id,group_id,app_number,queue_number,partition_number,preceding_job_number,think_job_time
